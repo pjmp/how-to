@@ -1,2 +1,3 @@
-# how-to
-How to do anything
+# How to:
+
+[Bulk delete github repos](./bulk-delete-github-repos.md).
